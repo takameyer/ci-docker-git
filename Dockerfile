@@ -6,3 +6,4 @@ RUN apk --update add git openssh && \
 
 VOLUME /git
 WORKDIR /git
+
